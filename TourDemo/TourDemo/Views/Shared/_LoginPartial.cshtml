@@ -1,0 +1,50 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+
+<ul class="navbar-nav flex-row ms-auto align-items-center justify-content-end">
+    @if (Accessor.HttpContext.Session.GetString("quyen") == "khachhang")
+    {
+        <li class="nav-item dropdown">
+            <a href="javascript:void(0)" class="m-4 fs-4 fw-medium" id="drop2" data-bs-toggle="dropdown"
+               aria-expanded="false">
+                @Accessor.HttpContext.Session.GetString("taikhoan")
+            </a>
+            <div class="dropdown-menu dropdown-menu-end dropdown-menu-animate-up" aria-labelledby="drop2">
+                <div class="message-body">
+                    <a asp-controller="Home" asp-action="Profile" class="d-flex align-items-center gap-2 dropdown-item">
+                        <i class="ti ti-user fs-6"></i>
+                        <p class="mb-0 fs-3">Hồ sơ</p>
+                    </a>
+                    <a asp-controller="Home" asp-action="ChangePassword" class="d-flex align-items-center gap-2 dropdown-item">
+                        <i class="ti ti-key fs-6"></i>
+                        <p class="mb-0 fs-3">Đổi mật khẩu</p>
+                    </a>
+                    <a asp-controller="Account" asp-action="LogOut" class="btn btn-outline-primary mx-3 mt-2 d-block">Đăng xuất</a>
+                </div>
+            </div>
+        </li>
+        <li class="nav-item">
+            <a class="fw-medium fs-4" asp-controller="Home" asp-action="History">
+                <i class="ti ti-shopping-cart fs-6"></i> Đơn hàng
+            </a>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="m-2 fs-4 fw-medium" asp-area="" asp-controller="Account" asp-action="Register">
+                ĐĂNG KÝ
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="m-2 fs-4 fw-medium" asp-area="" asp-controller="Account" asp-action="Login">
+                ĐĂNG NHẬP
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="m-2 fs-4 fw-medium" asp-area="" asp-controller="Account" asp-action="LoginAdmin">
+                <i class="ti ti-lock fs-6"></i> HỆ THỐNG
+            </a>
+        </li>
+    }
+</ul>

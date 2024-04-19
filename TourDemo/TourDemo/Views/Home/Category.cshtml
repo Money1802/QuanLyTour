@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<LoaiTour>
+
+<div class="py-6 px-6 text-center">
+    <h2 class="mb-0 fs-10">DANH MỤC TOUR</h2>
+</div>
+
+<div class="row">
+    @foreach(var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header">
+                    Danh mục
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">
+                        @item.Tenloai
+                    </h5>
+                    <a href="/Home/Search?filter.Category=@item.Maloaitour" class="btn btn-primary">Tìm kiếm</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

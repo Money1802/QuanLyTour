@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+
+<ul class="navbar-nav flex-row ms-auto align-items-center justify-content-end">
+    <li>
+        @if (Accessor.HttpContext.Session.GetString("quyen") == "admin")
+        {
+            <a class="">
+                Administrator
+            </a>
+        }
+        else
+        {
+            <a class="">
+                @Accessor.HttpContext.Session.GetString("taikhoan")
+            </a>
+        }
+    </li>
+    <li class="nav-item dropdown">
+        <a class="nav-link nav-icon-hover" href="javascript:void(0)" id="drop2" data-bs-toggle="dropdown"
+           aria-expanded="false">
+            <img src="~/images/profile/user-1.jpg" alt="" width="35" height="35" class="rounded-circle">
+        </a>
+        <div class="dropdown-menu dropdown-menu-end dropdown-menu-animate-up" aria-labelledby="drop2">
+            <div class="message-body">
+                @*@if (Accessor.HttpContext.Session.GetString("quyen") == "nhanvien")
+                {
+                    <a asp-controller="NhanVien" asp-action="Profile" class="d-flex align-items-center gap-2 dropdown-item">
+                        <i class="ti ti-user fs-6"></i>
+                        <p class="mb-0 fs-3">Hồ sơ</p>
+                    </a>
+                }*@
+                <a asp-controller="NhanVien" asp-action="ChangePassword" class="d-flex align-items-center gap-2 dropdown-item">
+                    <i class="ti ti-user fs-6"></i>
+                    <p class="mb-0 fs-3">Đổi mật khẩu</p>
+                </a>
+                <a asp-controller="Account" asp-action="LogOut" class="btn btn-outline-primary mx-3 mt-2 d-block">Đăng xuất</a>
+            </div>
+        </div>
+    </li>
+</ul>

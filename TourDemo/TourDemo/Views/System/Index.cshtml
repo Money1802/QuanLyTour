@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="card w-100">
+	<div class="card-body p-4">
+		<p class="fs-5 @(TempData["Alert"] != null ? TempData["Alert"].ToString().Contains("thành công") == true ? "text-success" : "text-danger" : "text-danger")">@TempData["Alert"]</p>
+		<h5 class="card-title fw-semibold mb-4">Backup và Restore dữ liệu</h5>
+		<div class="row">
+			<div class="col-6">
+				<div class="form-group mb-3">
+					<label>Backup dữ liệu</label>
+					<a class="btn btn-primary" asp-action="Backup" asp-controller="System"> Backup</a>
+				</div>
+			</div>
+			<div class="col-6">
+				<div class="form-group mb-3">
+					<label>Restore dữ liệu</label>
+					<input class="form-control" id="bk" />
+					<a class="btn btn-primary" onclick="rt()"> Restore</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+@section Scripts{
+	<script>
+		$(document).ready(function () {
+
+
+		});
+		function rt() {
+			window.location.href = '/System/Restore?bk=' + $("#bk").val()
+		}
+	</script>
+}

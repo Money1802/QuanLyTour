@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_LayoutEmpty.cshtml";
+}
+
+@model TourDemo.Models.ModelViews.CreateTaiKhoanKhach
+
+<div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+     data-sidebar-position="fixed" data-header-position="fixed">
+    <div class="position-relative overflow-hidden radial-gradient min-vh-100 d-flex align-items-center justify-content-center">
+        <div class="d-flex align-items-center justify-content-center w-100">
+            <div class="row justify-content-center w-100">
+                <div class="col-md-8 ">
+                    <div class="card mb-0">
+                        <div class="card-body">
+                            <a asp-area="" asp-controller="Home" asp-action="Index" class="text-nowrap logo-img text-center d-block py-3 w-100">
+                                <img src="~/Uploads/logo.png" width="180" alt="">
+                            </a>
+                            <p class="text-center">Đăng ký tài khoản mới để sử dụng dịch vụ</p>
+                            <form method="post">
+                                <div class="mb-3">
+                                    <label for="exampleInputtext1" class="form-label">Họ và tên</label>
+                                    @Html.TextBoxFor(m=>m.KhachHang.HoTen, new { @class = "form-control"})
+                                    <span asp-validation-for="KhachHang.HoTen" class="text-danger"></span>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleInputEmail1" class="form-label">Email *</label>
+                                    @Html.TextBoxFor(m=>m.KhachHang.Email, new { @class = "form-control"})
+                                    <span asp-validation-for="KhachHang.Email" class="text-danger"></span>
+                                </div>
+                                <div class="mb-4">
+                                    <label for="exampleInputPassword1" class="form-label">Tên đăng nhập *</label>
+                                    @Html.TextBoxFor(m=>m.TaiKhoanKhach.TenDN , new { @class = "form-control"})
+                                    <span asp-validation-for="TaiKhoanKhach.TenDN" class="text-danger"></span>
+                                </div>
+                                <div class="mb-4">
+                                    <label for="exampleInputPassword1" class="form-label">Mật khẩu *</label>
+                                    @Html.TextBoxFor(m=>m.TaiKhoanKhach.MatkhauDN, new { @class = "form-control", @type="password" })
+                                    <span asp-validation-for="TaiKhoanKhach.MatkhauDN" class="text-danger"></span>
+                                </div>
+                                <div class="mb-4">
+                                    <label for="exampleInputPassword1" class="form-label">Nhập lại Mật khẩu *</label>
+                                    @Html.TextBoxFor(m=>m.TaiKhoanKhach.NhapLaiMK, new { @class = "form-control", @type="password"})
+                                    <span asp-validation-for="TaiKhoanKhach.NhapLaiMK" class="text-danger"></span>
+                                </div>
+                                <button type="submit" class="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2">Đăng ký</button>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <p class="fs-4 mb-0 fw-bold">Bạn đã tài khoản?</p>
+                                    <a class="text-primary fw-bold ms-2" asp-area="" asp-controller="Account" asp-action="Login">Đăng nhập</a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

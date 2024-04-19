@@ -1,0 +1,107 @@
+﻿@model PagedList.IPagedList<KhachHang>
+@{
+	Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+	var filter = ViewData["Filter"] as TourDemo.Models.System.Filter;
+}
+
+<div class="card w-100">
+	<div class="card-body p-4">
+		<h5 class="card-title fw-semibold mb-4">DANH SÁCH KHÁCH HÀNG</h5>
+		<form class="row mb-3" id="form">
+			@Html.HiddenFor(m=>filter.PageIndex)
+			@Html.HiddenFor(m=>filter.PageSize)
+			<div class="col-6">
+				<div class="input-group">
+					@Html.TextBoxFor(m=>filter.Keyword, new { @class = "form-control", @placeholder = "Tìm kiếm theo họ tên hoặc email" })
+					<button id="btnSearch" type="submit" class="btn btn-icon btn-primary">Tìm kiếm</button>
+				</div>
+			</div>
+			<div class="col-4">
+				@*<a href="@Url.Action("Create")" class="btn btn-icon btn-success">Tạo mới</a>*@
+			</div>
+			<div class="col-2">
+			</div>
+		</form>
+		<div class="table-responsive" id="table">
+			<table class="table text-nowrap mb-0 align-middle">
+				<thead>
+					<tr>
+						<th>STT</th>
+						<th>Họ và tên</th>
+						<th>Email</th>
+						<th width="100"></th>
+					</tr>
+				</thead>
+				<tbody>
+					@{
+						int stt = 1;
+					}
+					@if (Model.Count > 0)
+					{
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@((filter.PageIndex - 1) * 10 + stt)</td>
+								<td>@item.HoTen</td>
+								<td>@item.Email</td>
+								<td>
+									<div class="btn-group">
+										<button class="btn btn-primary btn-xs dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+											Chọn
+										</button>
+										<ul class="dropdown-menu">
+											<li><a class="dropdown-item" href="@Url.Action("Detail")?id=@item.Makhach">Chi tiết</a></li>
+											<li><a class="dropdown-item" href="@Url.Action("ResetPassword")?id=@item.Makhach">Cấp lại mật khẩu</a></li>
+										</ul>
+									</div>
+								</td>
+							</tr>
+							stt++;
+						}
+					}
+				</tbody>
+			</table>
+			@if (Model.Count > 0)
+			{
+				<nav aria-label="...">
+					<ul class="pagination">
+						<li class="page-item @(Model.PageNumber == 1 ? "disabled" : "")">
+							<a class="page-link" onclick="toPage(1)" style="cursor: pointer">Đầu</a>
+						</li>
+						<li class="page-item @(Model.PageNumber == 1 ? "disabled" : "")">
+							<a class="page-link" onclick="toPage(@(Model.PageNumber - 1))" style="cursor: pointer">Lùi</a>
+						</li>
+						@if (Model.Count() > 0)
+						{
+							for (int i = 1; i <= Model.PageCount; i++)
+							{
+								<li class="page-item @(i == Model.PageNumber ? "active" : "")">
+									<a class="page-link" onclick="toPage(@i)" style="cursor: pointer">@i</a>
+								</li>
+							}
+						}
+						<li class="page-item @(Model.PageNumber == Model.PageCount ? "disabled" : "")">
+							<a class="page-link" onclick="toPage(@(Model.PageNumber + 1))" style="cursor: pointer">Tiếp</a>
+						</li>
+						<li class="page-item @(Model.PageNumber == Model.PageCount ? "disabled" : "")">
+							<a class="page-link" onclick="toPage(@(Model.PageCount))" style="cursor: pointer">Cuối</a>
+						</li>
+					</ul>
+				</nav>
+			}
+		</div>
+	</div>
+</div>
+@section Scripts{
+	<script>
+		$(document).ready(function () {
+
+
+		});
+		function toPage(index) {
+			$("#filter_PageIndex").val(index)
+			console.log($("#filter_PageIndex").val())
+			$("#form").submit()
+		}
+	</script>
+}

@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model TourDemo.Models.ModelViews.TourView
+
+<div class="card w-100" style="margin-top: 20px">
+	<div class="card-body p-4">
+		<h5 class="card-title fw-semibold mb-4">CHI TIẾT TOUR</h5>
+		<div class="row">
+			<div class="col-8">
+				<img src="@Model.Hinhanh" style="width: 100%; height: 400px; object-fit: cover" />
+			</div>
+			<div class="col-4">
+				<h4 class="fw-bold fs-6 mb-3">@Model.Tentour</h4> 
+				<h6 class="fw-semibold fs-4 mb-3">
+					Giá Tour: <span class="ms-2 fw-normal fs-3" style="color: orange; margin-right: 5px">@(string.Format("{0:C}", Model.Giagiam)) VNĐ</span>
+					@if (Model.Giagiam != Model.Giatour)
+					{
+						<span class="ms-2 fw-normal text-muted fs-3">(<del>@(string.Format("{0:C}", Model.Giatour).Replace("$", "")) VNĐ</del>)</span>
+					}	
+				</h6>
+				<h6 class="fw-semibold fs-4 mb-3">Số ngày đi: <span class="ms-2 fw-normal text-muted fs-3">@Model.Songaydi </span></h6>
+				<h6 class="fw-semibold fs-4 mb-3">Hướng dẫn viên: <span class="ms-2 fw-normal text-muted fs-3">@Model.TenNV </span></h6>
+				<ul class="list-unstyled d-flex align-items-center mb-4">
+					<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+					<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+					<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+					<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+					<li><a class="" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+				</ul>
+				<a asp-area="" asp-controller="Home" asp-action="Cart" asp-route-id="@Model.Matour" class="btn btn-outline-primary">Đặt Tour</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="card w-100">
+	<div class="card-body p-4">
+		<div class="text-center"><h5 class="card-title fw-semibold mb-4">GIỚI THIỆU</h5></div>
+		<p style="white-space: pre-line">
+			@Model.Gioithieu
+		</p>
+	</div>
+</div>
+
+<h5 class="card-title fw-semibold mb-4">TOUR TƯƠNG TỰ</h5>
+<div class="row">
+	@foreach (var item in ViewBag.Sames)
+	{
+		<div class="col-sm-6 col-xl-3">
+			<div class="card overflow-hidden rounded-2">
+				<div class="position-relative">
+					<a asp-area="" asp-controller="Home" asp-action="Detail" asp-route-id="@item.Matour"><img src="@item.Hinhanh" class="card-img-top rounded-0" height="200" alt="..."></a>
+					<a asp-area="" asp-controller="Home" asp-action="Cart" asp-route-id="@item.Matour" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
+				</div>
+				<div class="card-body pt-3 p-4">
+					<h6 class="fw-semibold fs-4">@item.Tentour</h6>
+					<div class="d-flex align-items-center justify-content-between">
+						<h6 class="fw-semibold fs-4 mb-0">
+							@(string.Format("{0:C}", item.Giagiam).Replace("$", "")) VNĐ <span class="ms-2 fw-normal text-muted fs-3">
+								@if (item.Giatour != item.Giagiam)
+								{
+									<del>@(string.Format("{0:C}", item.Giatour).Replace("$", "")) VNĐ</del>
+								}
+							</span>
+						</h6>
+						<ul class="list-unstyled d-flex align-items-center mb-0">
+							<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+							<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+							<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+							<li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+							<li><a class="" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	}
+</div>

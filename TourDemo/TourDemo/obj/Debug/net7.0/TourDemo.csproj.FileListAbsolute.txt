@@ -1,0 +1,492 @@
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.Development.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.staticwebassets.runtime.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.exe
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.deps.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.runtimeconfig.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.pdb
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Identity.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Humanizer.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.CodeDom.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Memory.Data.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Runtime.Caching.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Permissions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Windows.Extensions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.AssemblyReference.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.GeneratedMSBuildEditorConfig.editorconfig
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfoInputs.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CoreCompileInputs.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.TourDemo.Microsoft.AspNetCore.StaticWebAssets.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.pack.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.build.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.development.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\bundle\TourDemo.styles.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\projectbundle\TourDemo.bundle.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CopyComplete
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\refint\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.pdb
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.genruntimeconfig.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\ref\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\PagedList.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutEmpty.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\EPPlus.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\ExcelDataReader.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Select.Html.dep
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\bin\Debug\net7.0\Select.HtmlToPdf.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.staticwebassets.runtime.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.exe
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.deps.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.runtimeconfig.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.pdb
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\EPPlus.Core.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\ExcelDataReader.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\PagedList.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfo.cs
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.TourDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.TourDemo.props
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TourDemo.props
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TourDemo.props
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutEmpty.cshtml.rz.scp.css
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\bundle\TourDemo.styles.css
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\projectbundle\TourDemo.bundle.scp.css
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CopyComplete
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\refint\TourDemo.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.pdb
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.genruntimeconfig.cache
+C:\Users\admin\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\ref\TourDemo.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.staticwebassets.runtime.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.exe
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.deps.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.runtimeconfig.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.pdb
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\EPPlus.Core.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\ExcelDataReader.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\PagedList.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.AssemblyReference.cache
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfoInputs.cache
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfo.cs
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CoreCompileInputs.cache
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cache
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cs
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.TourDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.TourDemo.props
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TourDemo.props
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TourDemo.props
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutEmpty.cshtml.rz.scp.css
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\bundle\TourDemo.styles.css
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\projectbundle\TourDemo.bundle.scp.css
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CopyComplete
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\refint\TourDemo.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.pdb
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.genruntimeconfig.cache
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\obj\Debug\net7.0\ref\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.Development.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.staticwebassets.runtime.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.exe
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.deps.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.runtimeconfig.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.pdb
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Identity.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\EPPlus.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\ExcelDataReader.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Humanizer.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\PagedList.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.CodeDom.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Memory.Data.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Runtime.Caching.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Permissions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Windows.Extensions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.AssemblyReference.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.GeneratedMSBuildEditorConfig.editorconfig
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfoInputs.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CoreCompileInputs.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.TourDemo.Microsoft.AspNetCore.StaticWebAssets.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.pack.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.build.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.development.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutEmpty.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\bundle\TourDemo.styles.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\projectbundle\TourDemo.bundle.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CopyComplete
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\refint\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.pdb
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.genruntimeconfig.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\obj\Debug\net7.0\ref\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo\TourDemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.Development.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\appsettings.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.staticwebassets.runtime.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.exe
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.deps.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.runtimeconfig.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\TourDemo.pdb
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Azure.Identity.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\EPPlus.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\ExcelDataReader.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Humanizer.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\PagedList.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.CodeDom.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Memory.Data.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Runtime.Caching.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Security.Permissions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Windows.Extensions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.AssemblyReference.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.GeneratedMSBuildEditorConfig.editorconfig
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfoInputs.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.AssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CoreCompileInputs.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.MvcApplicationPartsAssemblyInfo.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.RazorAssemblyInfo.cs
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.TourDemo.Microsoft.AspNetCore.StaticWebAssets.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TourDemo.props
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.pack.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.build.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\staticwebassets.development.json
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutEmpty.cshtml.rz.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\bundle\TourDemo.styles.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\scopedcss\projectbundle\TourDemo.bundle.scp.css
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.csproj.CopyComplete
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\refint\TourDemo.dll
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.pdb
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\TourDemo.genruntimeconfig.cache
+K:\K-Project\ASP.Net MVC\TourApp\TourDemo\TourDemo_VnPay\TourDemo\TourDemo\obj\Debug\net7.0\ref\TourDemo.dll
+C:\Users\admin\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Money\OneDrive\Desktop\TourDemo\TourDemo\bin\Debug\net7.0\Newtonsoft.Json.dll

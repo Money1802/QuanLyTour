@@ -1,0 +1,190 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Quản lý Tour</title>
+    <link rel="shortcut icon" type="image/png" href="~/Uploads/logo.png" />
+    <link rel="stylesheet" href="~/css/styles.min.css" />
+</head>
+
+<body>
+    <!--  Body Wrapper -->
+    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+         data-sidebar-position="fixed" data-header-position="fixed">
+        <!-- Sidebar Start -->
+        <aside class="left-sidebar">
+            <!-- Sidebar scroll-->
+            <div>
+                <div class="brand-logo d-flex align-items-center justify-content-between">
+                    <a asp-area="" asp-controller="Home" asp-action="Index" class="text-nowrap logo-img" style="display: flex; flex-direction:row; align-items: center; justify-content: center; width: 100%">
+                        <img src="~/Uploads/logo.png" width="80" height="80" alt="" />
+                    </a>
+                    <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
+                        <i class="ti ti-x fs-8"></i>
+                    </div>
+                </div>
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav scroll-sidebar" data-simplebar="">
+                    <ul id="sidebarnav">
+                        @if (Accessor.HttpContext.Session.GetString("quyen") == "admin")
+                        {
+                            <li class="nav-small-cap">
+                                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                                <span class="hide-menu">THỐNG KÊ</span>
+                            </li>
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="Dashboard" asp-action="Index" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-layout-dashboard"></i>
+                                    </span>
+                                    <span class="hide-menu">Doanh thu</span>
+                                </a>
+                            </li>
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="Dashboard" asp-action="Number" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-layout-dashboard"></i>
+                                    </span>
+                                    <span class="hide-menu">Số lượng</span>
+                                </a>
+                            </li>
+                        }
+                        <li class="nav-small-cap">
+                            <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                            <span class="hide-menu">NGƯỜI DÙNG</span>
+                        </li>
+                        @if (Accessor.HttpContext.Session.GetString("quyen") == "admin")
+                        {
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="NhanVien" asp-action="Index" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-user-circle"></i>
+                                    </span>
+                                    <span class="hide-menu">Nhân viên</span>
+                                </a>
+                            </li>
+                        }
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" asp-area="" asp-controller="KhachHang" asp-action="Index" aria-expanded="false">
+                                <span>
+                                    <i class="ti ti-user"></i>
+                                </span>
+                                <span class="hide-menu">Khách hàng</span>
+                            </a>
+                        </li>
+                        <li class="nav-small-cap">
+                            <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                            <span class="hide-menu">QUẢN LÝ TOUR</span>
+                        </li>
+                        @if (Accessor.HttpContext.Session.GetString("quyen") == "admin")
+                        {
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="KhuyenMai" asp-action="Index" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-cards"></i>
+                                    </span>
+                                    <span class="hide-menu">Khuyến Mãi</span>
+                                </a>
+                            </li>
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="LoaiTour" asp-action="Index" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-category"></i>
+                                    </span>
+                                    <span class="hide-menu">Loại Tour</span>
+                                </a>
+                            </li>
+                        }
+                        <li class="sidebar-item">
+                            <a class="sidebar-link" asp-area="" asp-controller="Tour" asp-action="Index" aria-expanded="false">
+                                <span>
+                                    <i class="ti ti-beach"></i>
+                                </span>
+                                <span class="hide-menu">Tour</span>
+                            </a>
+                        </li>
+                        @if (Accessor.HttpContext.Session.GetString("quyen") == "admin")
+                        {
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="DatTour" asp-action="Index" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-shopping-cart"></i>
+                                    </span>
+                                    <span class="hide-menu">Đơn hàng</span>
+                                </a>
+                            </li>
+                            <li class="nav-small-cap">
+                                <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
+                                <span class="hide-menu">Hệ Thống</span>
+                            </li>
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="System" asp-action="Index" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-settings"></i>
+                                    </span>
+                                    <span class="hide-menu">Cài đặt</span>
+                                </a>
+                            </li>
+                            <li class="sidebar-item">
+                                <a class="sidebar-link" asp-area="" asp-controller="Quyen" asp-action="Index" aria-expanded="false">
+                                    <span>
+                                        <i class="ti ti-alert-circle"></i>
+                                    </span>
+                                    <span class="hide-menu">Quyền</span>
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                </nav>
+                <!-- End Sidebar navigation -->
+            </div>
+            <!-- End Sidebar scroll-->
+        </aside>
+        <!--  Sidebar End -->
+        <!--  Main wrapper -->
+        <div class="body-wrapper">
+            <!--  Header Start -->
+            <header class="app-header">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <ul class="navbar-nav">
+                        <li class="nav-item d-block d-xl-none">
+                            <a class="nav-link sidebartoggler nav-icon-hover" id="headerCollapse" href="javascript:void(0)">
+                                <i class="ti ti-menu-2"></i>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link nav-icon-hover" href="javascript:void(0)">
+                                <i class="ti ti-bell-ringing"></i>
+                                <div class="notification bg-primary rounded-circle"></div>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="navbar-collapse justify-content-end px-0" id="navbarNav">
+                        <partial name="_ProfilePartial" />
+                    </div>
+                </nav>
+            </header>
+            <!--  Header End -->
+            <div class="container-fluid">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+
+
+        <script src="~/libs/jquery/dist/jquery.min.js"></script>
+        <script src="~/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/sidebarmenu.js"></script>
+        <script src="~/js/app.min.js"></script>
+        <script src="~/libs/apexcharts/dist/apexcharts.min.js"></script>
+        <script src="~/libs/simplebar/dist/simplebar.js"></script>
+        <script src="~/js/dashboard.js"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

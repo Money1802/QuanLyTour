@@ -1,0 +1,39 @@
+﻿@{
+	Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model KhuyenMai
+
+<div class="card w-100">
+	<div class="card-body p-4">
+		<h5 class="card-title fw-semibold mb-4">THÔNG TIN KHUYẾN MÃI</h5>
+		<form method="post">
+			<div asp-validation-summary="All" class="text-danger"></div>
+			<div class="row">
+				<div class="form-group mb-3 col-9">
+					<label asp-for="TenKM"></label> *
+					<input asp-for="TenKM" class="form-control" />
+					<span asp-validation-for="TenKM" class="text-danger"></span>
+				</div>
+				<div class="form-group mb-3 col-3">
+					<label asp-for="Phantram"></label> *
+					<input asp-for="Phantram" class="form-control" />
+					<span asp-validation-for="Phantram" class="text-danger"></span>
+				</div>
+				<div class="form-group mb-3 col-6">
+					<label asp-for="Ngaybatdau"></label> *
+					<input asp-for="Ngaybatdau" type="date" class="form-control" />
+					<span asp-validation-for="Ngaybatdau" class="text-danger"></span>
+				</div>
+				<div class="form-group mb-3 col-6">
+					<label asp-for="Ngayketthuc"></label> *
+					<input asp-for="Ngayketthuc" type="date" class="form-control" />
+					<span asp-validation-for="Ngayketthuc" class="text-danger"></span>
+				</div>
+				<div class="form-group-0 col-12">
+					<button type="submit" class="btn btn-primary">Lưu</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>

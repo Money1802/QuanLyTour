@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model PagedList.IPagedList<TourDemo.Models.ModelViews.TourView>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+
+<div id="carouselExampleControls" class="carousel slide mb-3" data-mdb-ride="carousel" data-mdb-carousel-init>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="https://saigontourist.net/uploads/destination/TrongNuoc/mienbac/Ha-giang/buckwheat-flower-hagiang.jpg" class="d-block w-100" style="height: 500px" alt="Wild Landscape" />
+        </div>
+        <div class="carousel-item">
+            <img src="https://saigontourist.net/uploads/destination/NuocNgoai/tay-ban-nha/Barcelona_407568172.jpg" class="d-block w-100" style="height: 500px" alt="Camera" />
+        </div>
+        <div class="carousel-item">
+            <img src="https://saigontourist.net/uploads/destination/TrongNuoc/Phuquoc/Phu-Quoc-island-in-Vietnam_300005888.jpg" class="d-block w-100" style="height: 500px" alt="Exotic Fruits" />
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleControls" data-mdb-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleControls" data-mdb-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-6 col-xl-3">
+            <div class="card overflow-hidden rounded-2">
+                <div class="position-relative">
+                    <a asp-area="" asp-controller="Home" asp-action="Detail" asp-route-id="@item.Matour"><img src="@item.Hinhanh" class="card-img-top rounded-0" height="200" alt="..."></a>
+                    <a asp-area="" asp-controller="Home" asp-action="Cart" asp-route-id="@item.Matour" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
+                </div>
+                <div class="card-body pt-3 p-4">
+                    <h6 class="fw-semibold fs-4">@item.Tentour</h6>
+                    <div class="d-flex align-items-center justify-content-between">
+                        <h6 class="fw-semibold fs-4 mb-0">
+                            @(string.Format("{0:C}", Math.Round(item.Giagiam)).Replace("$", "")) VNĐ<span class="ms-2 fw-normal text-muted fs-3">
+                                @if(item.Giatour != item.Giagiam)
+                                {
+                                    <del>@(string.Format("{0:C}", Math.Round(item.Giatour)).Replace("$", "")) VNĐ</del>
+                                }
+                            </span></h6>
+                        <ul class="list-unstyled d-flex align-items-center mb-0">
+                            <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+                            <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+                            <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+                            <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+                            <li><a class="" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <div class="py-6 px-6 text-center">
+        <p class="mb-0 fs-4"><a href="@Url.Action("Search")" class="pe-1 text-primary text-decoration-underline">Xem thêm</a></p>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('.carousel').carousel({
+                interval: 2000
+            })
+        });
+    </script>
+}
+
